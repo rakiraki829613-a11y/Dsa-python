@@ -12,5 +12,5 @@ nums=[1,2,3]
 print(maximum_cosecutive(nums))
 
 
-        
+         r
     
